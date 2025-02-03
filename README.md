@@ -16,6 +16,7 @@ I'm Lívia Novaes, 22 years old, currently studying Mechatronics Engineering and
   <img src="https://img.icons8.com/color/2x/mysql-logo.png" width="100" alt="MySQL">
   <img src="https://img.icons8.com/color/2x/nodejs.png" width="100" alt="Node.js">
   <img src="https://img.icons8.com/color/2x/typescript.png" width="100" alt="TypeScript">
+  <img src="https://img.icons8.com/color/2x/c-programming.png" width="100" alt="C">
 </table>
 
 <div> 
