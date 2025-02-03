@@ -7,7 +7,7 @@ I'm Lívia Novaes, 22 years old, currently studying Mechatronics Engineering and
 <table>
   <a href="https://github.com/livianovaes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=livianovaes&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livianovaes&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livianovaes&layout=compact&langs_count=6&theme=radical"/>
   <img src="https://img.icons8.com/color/2x/python.png" width="80" alt="Python">
   <img src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" width="80" alt="Java">
   <img src="https://img.icons8.com/color/2x/html-5.png" width="80" alt="HTML5">
