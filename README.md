@@ -2,7 +2,7 @@
 
 ## About Me 💻
 
-I'm Lívia Novaes, 22 years old, currently studying Mechatronics Engineering and Systems Analysis and Development. I'm a technology enthusiast and an aspiring pro player in online games!
+I'm Lívia Novaes, 22 years old, currently studying Mechatronics Engineering and Systems Analysis and Development.
 
 <table>
   <a href="https://github.com/livianovaes">
